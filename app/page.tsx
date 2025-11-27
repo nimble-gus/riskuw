@@ -26,6 +26,7 @@ export default function Home() {
               <source src="/hero1.mp4" type="video/mp4" />
             </video>
             <div className="absolute inset-0 bg-slate-950/80 backdrop-blur-[0px]"></div>
+            <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent"></div>
           </div>
           <div className="container relative z-10 mx-auto px-4 md:px-6">
             <div className="flex flex-col items-center text-center">
